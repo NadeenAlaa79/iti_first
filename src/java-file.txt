@@ -1,1 +1,1 @@
-hello to github
+hello to github and conf managemnt 
